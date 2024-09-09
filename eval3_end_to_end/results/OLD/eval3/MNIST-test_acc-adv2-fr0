@@ -1,0 +1,60 @@
+Epoch 0: Time 37.723 s, model acc: 91.89
+test_acc: 24.348 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 1: Time 34.957 s, model acc: 93.99
+test_acc: 22.884 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 2: Time 37.238 s, model acc: 95.09
+test_acc: 24.691 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 3: Time 38.148 s, model acc: 95.94
+test_acc: 24.692 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 4: Time 38.815 s, model acc: 96.31
+test_acc: 24.241 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 5: Time 35.283 s, model acc: 96.66
+test_acc: 22.554 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 6: Time 30.664 s, model acc: 96.93
+test_acc: 19.285 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 7: Time 32.314 s, model acc: 97.04
+test_acc: 21.141 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 8: Time 71.194 s, model acc: 97.3
+test_acc: 56.489 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 9: Time 99.157 s, model acc: 97.44
+test_acc: 64.978 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 10: Time 100.539 s, model acc: 97.47
+test_acc: 66.374 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 11: Time 96.284 s, model acc: 97.55
+test_acc: 62.308 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 12: Time 99.194 s, model acc: 97.6
+test_acc: 64.699 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 13: Time 95.430 s, model acc: 97.66
+test_acc: 59.835 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 14: Time 100.884 s, model acc: 97.72
+test_acc: 65.211 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 15: Time 96.718 s, model acc: 97.78
+test_acc: 61.204 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 16: Time 92.452 s, model acc: 97.85
+test_acc: 58.218 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 17: Time 92.094 s, model acc: 97.87
+test_acc: 55.694 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 18: Time 89.980 s, model acc: 97.87
+test_acc: 56.204 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 19: Time 85.248 s, model acc: 97.93
+test_acc: 53.979 s, acc 1.0, f1 1.0
+--------------------------

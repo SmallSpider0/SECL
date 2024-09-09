@@ -1,0 +1,120 @@
+Epoch 0: Time 27.470 s, model acc: 10.8
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 1: Time 26.157 s, model acc: 16.66
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 2: Time 24.220 s, model acc: 34.59
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 3: Time 22.777 s, model acc: 43.13
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 4: Time 24.458 s, model acc: 45.49
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 5: Time 23.953 s, model acc: 47.45
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 6: Time 26.950 s, model acc: 50.14
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 7: Time 25.666 s, model acc: 52.28
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 8: Time 24.446 s, model acc: 53.95
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 9: Time 24.374 s, model acc: 54.04
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 10: Time 24.894 s, model acc: 56.46
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 11: Time 26.915 s, model acc: 58.35
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 12: Time 25.111 s, model acc: 57.27
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 13: Time 24.011 s, model acc: 59.88
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 14: Time 24.972 s, model acc: 60.34
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 15: Time 23.837 s, model acc: 61.42
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 16: Time 26.602 s, model acc: 61.98
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 17: Time 23.140 s, model acc: 63.63
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 18: Time 22.534 s, model acc: 64.71
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 19: Time 22.145 s, model acc: 65.64
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 20: Time 22.309 s, model acc: 66.25
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 21: Time 23.417 s, model acc: 66.76
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 22: Time 21.170 s, model acc: 67.04
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 23: Time 20.482 s, model acc: 67.56
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 24: Time 20.763 s, model acc: 68.04
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 25: Time 23.500 s, model acc: 68.21
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 26: Time 25.337 s, model acc: 68.48
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 27: Time 23.301 s, model acc: 69.19
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 28: Time 23.726 s, model acc: 70.01
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 29: Time 23.380 s, model acc: 69.97
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 30: Time 25.597 s, model acc: 70.33
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 31: Time 23.747 s, model acc: 70.76
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 32: Time 20.271 s, model acc: 71.66
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 33: Time 19.663 s, model acc: 70.73
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 34: Time 21.300 s, model acc: 71.3
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 35: Time 23.524 s, model acc: 71.3
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 36: Time 22.267 s, model acc: 71.2
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 37: Time 22.068 s, model acc: 71.92
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 38: Time 21.368 s, model acc: 72.88
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 39: Time 20.043 s, model acc: 71.81
+reproduction: 0.000 s, acc 1.0, f1 1.0
+--------------------------

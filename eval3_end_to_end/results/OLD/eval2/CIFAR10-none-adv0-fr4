@@ -1,0 +1,120 @@
+Epoch 0: Time 21.900 s, model acc: 10.39
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 1: Time 19.516 s, model acc: 10.06
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 2: Time 22.481 s, model acc: 15.41
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 3: Time 22.537 s, model acc: 22.89
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 4: Time 21.400 s, model acc: 33.12
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 5: Time 22.206 s, model acc: 37.92
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 6: Time 21.558 s, model acc: 38.72
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 7: Time 20.772 s, model acc: 43.66
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 8: Time 21.325 s, model acc: 45.63
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 9: Time 21.700 s, model acc: 47.59
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 10: Time 22.133 s, model acc: 49.68
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 11: Time 21.688 s, model acc: 50.78
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 12: Time 21.561 s, model acc: 53.32
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 13: Time 21.202 s, model acc: 54.03
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 14: Time 21.228 s, model acc: 55.5
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 15: Time 23.548 s, model acc: 57.16
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 16: Time 21.234 s, model acc: 58.72
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 17: Time 21.501 s, model acc: 59.58
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 18: Time 21.272 s, model acc: 60.81
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 19: Time 20.935 s, model acc: 59.97
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 20: Time 21.739 s, model acc: 59.99
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 21: Time 21.864 s, model acc: 61.27
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 22: Time 21.564 s, model acc: 62.47
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 23: Time 21.317 s, model acc: 63.65
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 24: Time 21.686 s, model acc: 64.22
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 25: Time 22.344 s, model acc: 64.5
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 26: Time 22.358 s, model acc: 65.75
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 27: Time 20.964 s, model acc: 66.27
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 28: Time 22.187 s, model acc: 66.97
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 29: Time 21.027 s, model acc: 66.59
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 30: Time 21.356 s, model acc: 67.42
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 31: Time 22.695 s, model acc: 67.57
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 32: Time 22.632 s, model acc: 67.65
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 33: Time 21.811 s, model acc: 68.26
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 34: Time 26.092 s, model acc: 69.02
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 35: Time 25.508 s, model acc: 69.18
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 36: Time 23.707 s, model acc: 68.7
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 37: Time 25.732 s, model acc: 69.32
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 38: Time 24.750 s, model acc: 70.3
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 39: Time 25.262 s, model acc: 69.58
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------

@@ -1,0 +1,60 @@
+Epoch 0: Time 76.096 s, model acc: 91.12
+influence: 53.402 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 1: Time 74.193 s, model acc: 92.13
+influence: 53.713 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 2: Time 72.471 s, model acc: 92.99
+influence: 51.074 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 3: Time 75.580 s, model acc: 93.49
+influence: 55.004 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 4: Time 74.855 s, model acc: 93.81
+influence: 54.297 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 5: Time 74.336 s, model acc: 94.02
+influence: 53.380 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 6: Time 74.523 s, model acc: 94.39
+influence: 53.113 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 7: Time 74.083 s, model acc: 94.43
+influence: 51.595 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 8: Time 74.507 s, model acc: 94.67
+influence: 53.091 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 9: Time 75.477 s, model acc: 94.61
+influence: 53.979 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 10: Time 74.777 s, model acc: 94.73
+influence: 54.188 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 11: Time 70.405 s, model acc: 94.96
+influence: 49.721 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 12: Time 70.911 s, model acc: 94.99
+influence: 49.477 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 13: Time 71.669 s, model acc: 94.99
+influence: 52.031 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 14: Time 66.917 s, model acc: 95.02
+influence: 47.499 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 15: Time 73.392 s, model acc: 95.19
+influence: 53.497 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 16: Time 68.688 s, model acc: 95.18
+influence: 49.770 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 17: Time 66.198 s, model acc: 95.25
+influence: 47.275 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 18: Time 75.089 s, model acc: 95.11
+influence: 53.056 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 19: Time 74.228 s, model acc: 95.2
+influence: 53.101 s, acc 0.6, f1 0.0
+--------------------------

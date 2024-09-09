@@ -1,0 +1,60 @@
+Epoch 0: Time 10.257 s, model acc: 91.12
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 1: Time 9.378 s, model acc: 92.26
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 2: Time 9.357 s, model acc: 93.01
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 3: Time 9.176 s, model acc: 93.47
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 4: Time 8.167 s, model acc: 93.74
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 5: Time 8.160 s, model acc: 94.08
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 6: Time 8.294 s, model acc: 94.2
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 7: Time 8.324 s, model acc: 94.33
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 8: Time 8.157 s, model acc: 94.45
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 9: Time 9.186 s, model acc: 94.56
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 10: Time 9.005 s, model acc: 94.71
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 11: Time 7.953 s, model acc: 94.79
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 12: Time 8.615 s, model acc: 94.98
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 13: Time 8.849 s, model acc: 94.92
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 14: Time 8.829 s, model acc: 95.01
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 15: Time 8.597 s, model acc: 95.13
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 16: Time 8.975 s, model acc: 94.94
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 17: Time 8.465 s, model acc: 95.13
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 18: Time 7.982 s, model acc: 95.11
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------
+Epoch 19: Time 9.159 s, model acc: 95.17
+none: 0.000 s, acc 0.6, f1 0.0
+--------------------------

@@ -1,0 +1,120 @@
+Epoch 0: Time 29.705 s, model acc: 10.56
+multi_KRUM: 0.303 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 1: Time 25.696 s, model acc: 19.62
+multi_KRUM: 0.312 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 2: Time 26.406 s, model acc: 38.43
+multi_KRUM: 0.297 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 3: Time 27.390 s, model acc: 42.75
+multi_KRUM: 0.257 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 4: Time 25.695 s, model acc: 47.96
+multi_KRUM: 0.248 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 5: Time 26.032 s, model acc: 48.75
+multi_KRUM: 0.304 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 6: Time 26.652 s, model acc: 50.73
+multi_KRUM: 0.313 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 7: Time 21.582 s, model acc: 54.78
+multi_KRUM: 0.226 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 8: Time 21.134 s, model acc: 57.04
+multi_KRUM: 0.181 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 9: Time 22.537 s, model acc: 58.01
+multi_KRUM: 0.221 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 10: Time 21.844 s, model acc: 59.62
+multi_KRUM: 0.306 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 11: Time 21.811 s, model acc: 61.31
+multi_KRUM: 0.165 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 12: Time 22.481 s, model acc: 62.29
+multi_KRUM: 0.234 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 13: Time 21.428 s, model acc: 63.14
+multi_KRUM: 0.262 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 14: Time 22.044 s, model acc: 64.41
+multi_KRUM: 0.217 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 15: Time 22.225 s, model acc: 65.55
+multi_KRUM: 0.197 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 16: Time 21.051 s, model acc: 66.92
+multi_KRUM: 0.162 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 17: Time 22.535 s, model acc: 67.75
+multi_KRUM: 0.285 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 18: Time 22.399 s, model acc: 67.36
+multi_KRUM: 0.236 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 19: Time 21.140 s, model acc: 68.18
+multi_KRUM: 0.201 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 20: Time 21.264 s, model acc: 68.93
+multi_KRUM: 0.227 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 21: Time 23.461 s, model acc: 68.73
+multi_KRUM: 0.261 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 22: Time 21.440 s, model acc: 70.42
+multi_KRUM: 0.186 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 23: Time 21.566 s, model acc: 71.07
+multi_KRUM: 0.205 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 24: Time 22.900 s, model acc: 71.06
+multi_KRUM: 0.191 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 25: Time 22.716 s, model acc: 72.22
+multi_KRUM: 0.185 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 26: Time 21.283 s, model acc: 72.18
+multi_KRUM: 0.192 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 27: Time 22.058 s, model acc: 71.54
+multi_KRUM: 0.256 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 28: Time 23.848 s, model acc: 73.33
+multi_KRUM: 0.186 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 29: Time 20.967 s, model acc: 73.26
+multi_KRUM: 0.165 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 30: Time 21.667 s, model acc: 73.46
+multi_KRUM: 0.183 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 31: Time 23.609 s, model acc: 73.7
+multi_KRUM: 0.239 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 32: Time 21.734 s, model acc: 73.93
+multi_KRUM: 0.183 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 33: Time 21.617 s, model acc: 74.85
+multi_KRUM: 0.179 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 34: Time 25.422 s, model acc: 74.48
+multi_KRUM: 0.427 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 35: Time 27.864 s, model acc: 74.88
+multi_KRUM: 0.344 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 36: Time 26.496 s, model acc: 75.35
+multi_KRUM: 0.199 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 37: Time 26.538 s, model acc: 75.15
+multi_KRUM: 0.294 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 38: Time 27.664 s, model acc: 75.26
+multi_KRUM: 0.292 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 39: Time 27.705 s, model acc: 76.32
+multi_KRUM: 0.300 s, acc 1.0, f1 1.0
+--------------------------

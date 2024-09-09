@@ -1,0 +1,120 @@
+Epoch 0: Time 84.057 s, model acc: 10.0
+test_acc: 53.424 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 1: Time 81.529 s, model acc: 24.78
+test_acc: 56.549 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 2: Time 81.030 s, model acc: 38.22
+test_acc: 56.570 s, acc 1.0, f1 1.0
+--------------------------
+Epoch 3: Time 82.741 s, model acc: 41.62
+test_acc: 57.559 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 4: Time 80.927 s, model acc: 43.58
+test_acc: 57.146 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 5: Time 82.406 s, model acc: 46.08
+test_acc: 56.437 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 6: Time 82.852 s, model acc: 46.41
+test_acc: 57.388 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 7: Time 82.416 s, model acc: 47.55
+test_acc: 56.993 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 8: Time 80.110 s, model acc: 48.82
+test_acc: 54.861 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 9: Time 74.804 s, model acc: 49.84
+test_acc: 51.223 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 10: Time 64.705 s, model acc: 51.11
+test_acc: 44.221 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 11: Time 64.355 s, model acc: 52.46
+test_acc: 41.973 s, acc 0.3, f1 0.0
+--------------------------
+Epoch 12: Time 72.988 s, model acc: 53.59
+test_acc: 47.854 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 13: Time 72.544 s, model acc: 55.01
+test_acc: 48.378 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 14: Time 75.132 s, model acc: 56.01
+test_acc: 51.411 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 15: Time 74.047 s, model acc: 56.49
+test_acc: 49.994 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 16: Time 68.704 s, model acc: 57.53
+test_acc: 46.303 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 17: Time 68.732 s, model acc: 58.52
+test_acc: 47.271 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 18: Time 71.502 s, model acc: 58.99
+test_acc: 49.269 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 19: Time 69.816 s, model acc: 59.98
+test_acc: 47.115 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 20: Time 70.932 s, model acc: 60.72
+test_acc: 45.793 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 21: Time 68.857 s, model acc: 61.35
+test_acc: 45.016 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 22: Time 67.900 s, model acc: 61.68
+test_acc: 43.566 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 23: Time 67.973 s, model acc: 62.24
+test_acc: 44.124 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 24: Time 69.504 s, model acc: 63.02
+test_acc: 44.158 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 25: Time 68.014 s, model acc: 62.51
+test_acc: 44.384 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 26: Time 69.405 s, model acc: 63.54
+test_acc: 45.045 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 27: Time 72.300 s, model acc: 64.3
+test_acc: 48.616 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 28: Time 72.550 s, model acc: 64.33
+test_acc: 49.017 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 29: Time 71.159 s, model acc: 64.31
+test_acc: 47.425 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 30: Time 71.228 s, model acc: 64.83
+test_acc: 45.710 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 31: Time 69.115 s, model acc: 65.6
+test_acc: 44.216 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 32: Time 70.540 s, model acc: 64.99
+test_acc: 45.312 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 33: Time 70.757 s, model acc: 65.86
+test_acc: 47.539 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 34: Time 70.722 s, model acc: 65.71
+test_acc: 46.925 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 35: Time 71.099 s, model acc: 66.47
+test_acc: 46.912 s, acc 0.3, f1 0.0
+--------------------------
+Epoch 36: Time 68.926 s, model acc: 67.17
+test_acc: 45.204 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 37: Time 72.663 s, model acc: 67.07
+test_acc: 47.603 s, acc 0.4, f1 0.0
+--------------------------
+Epoch 38: Time 74.270 s, model acc: 67.61
+test_acc: 50.396 s, acc 0.5, f1 0.0
+--------------------------
+Epoch 39: Time 72.749 s, model acc: 67.58
+test_acc: 48.653 s, acc 0.5, f1 0.0
+--------------------------
